@@ -45,6 +45,8 @@ Features a search bar, social media icons, and navigational links for easy acces
 
 
 
+
+
 Technologies Used
 
 
